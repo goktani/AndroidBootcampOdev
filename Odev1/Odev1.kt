@@ -14,7 +14,6 @@ fun main() {
     var maas = 7500.0
     val medeniDurum = "Evli"
     var urunYorum = "Çok kullanışlı."
-
     val odemeTarihi = "2025-05-20"
     var odeme = 120.99
     val siparisAdeti = 1
@@ -27,7 +26,6 @@ fun main() {
     val boylam = -74.0060
     val urunAdi = "Akıllı Saat"
     var yemekFiyati = 45.0
-
     var marka = "Apple"
     val muzikAdi = "Sarı Laleler"
     var videoSuresi = "00:04:12"
@@ -39,7 +37,6 @@ fun main() {
     var telefonModeli = "iPhone 13"
     val ekranBoyutu = 6.1
     var agirlik = 173.0
-
     val ulusalGun = "30 Ağustos Zafer Bayramı"
     var tatilGunu = "Pazartesi"
     val rezervasyonTarihi = "2025-06-25"
@@ -50,7 +47,6 @@ fun main() {
     var kuponSuresi = "2025-06-15"
     val kuponKodu = "SUMMER10"
     var faturaAdresi = "Örnek Apartmanı, No: 5, Kadıköy"
-
     println("Şehir: $sehir")
     println("Ülke: $ulke")
     println("Telefon: $telefon")
